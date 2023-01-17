@@ -1,0 +1,490 @@
+/* login */
+.login_head {
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 15vh;
+  box-shadow: 5px 5px 10px rgb(0,0,0,0.3);
+}
+.login_head > h1 {
+  letter-spacing: 20px;
+  font-family: 'system-ui';
+  text-transform: uppercase;
+  text-align: center;
+  padding: 20px 80px;
+  font-size: 1.1;
+}
+.login_head > h1 > span {
+  font-size: 18px;
+  letter-spacing: 5px;
+}
+.login_main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 75vh;
+  width: 100%;
+  background: url("./images/login.jpeg") no-repeat center center;
+  background-size: cover;
+}
+.login_form {
+  width: 500px;
+  padding: 40px;
+  border-radius: 8px;
+  background-color: white;
+  font-family: 'system-ui';
+  box-shadow: 10px 10px 15px rgb(0,0,0,0.3);
+}
+.login_form_div {
+  text-transform: uppercase;
+}
+.login_form_div > label {
+  letter-spacing: 3px;
+  font-size: 1rem;
+}
+.login_form_div > input {
+  letter-spacing: 2px;
+  font-size: 110%;
+}
+.login_info_div {
+  text-align: center;
+  margin-top: 25px;
+  letter-spacing: 1px;
+}
+.login_info_div > p > span {
+  text-decoration: underline;
+  color:darkslateblue;
+}
+.login_field_class {
+  width: 100%;
+  border-radius: 6px;
+  border-style: solid;
+  border-width: 1px;
+  padding: 5px 0px;
+  text-indent: 6px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-family: 'system-ui';
+  font-size: 0.9rem;
+  letter-spacing: 2px;
+}
+.login_submit {
+  border-style: none;
+  border-radius: 5px;
+  background-color: #FFE6D4;
+  padding: 10px 22px;
+  font-family: 'system-ui';
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  display: block;
+  margin: auto;
+  margin-top: 12px;
+  box-shadow: 2px 2px 5px rgb(0,0,0,0.2);
+  cursor: pointer;
+  font-weight: 500;;
+}
+.login_foot {
+  height: 10vh;
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: -5px -5px 10px rgb(0,0,0,0.3);
+}
+.login_foot > p {
+  text-align: center;
+  font-family: 'system-ui';
+  letter-spacing: 3px;
+}
+
+/* title */
+.title {
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 2vh;
+  padding-bottom: 1vh;
+  font-size: 2.7vh;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  font-weight: 500;
+}
+
+/* navBar */
+.navBar {
+  letter-spacing: 1.5px;
+  font-weight: 500;
+  font-size: 1.9vh;
+  background-color: black;
+}
+.navBar > div {
+  width: 35vw;
+  margin-left: 2vw;
+}
+.nav-link {
+  margin: auto;
+  color: white;
+}
+.nav-link > div {
+  color: white;
+  border-radius: 5px;
+  background-color: black;
+  padding: 0vh 1vw;
+}
+
+/* home */
+.homeLeft {
+  position: relative;
+  float: left;
+  margin: 8vh 8vw 0 8vw;
+  width: max(max-content, 30vw)
+}
+.homeLeft > h2 {
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+.homeWholeBar {
+  position: relative;
+}
+.homeActiveBar {
+  border: 3px solid black;
+  height: 4.5vh;
+  width: 100%;
+  position: absolute;
+}
+.top10list {
+  background-color: Bisque;
+  padding: 2vh 1.2vw;
+  margin: 4vh 0;
+  font-size: large;
+  letter-spacing: 0.5px;
+}
+.eachTopRow {
+  height: 4.3vh;
+  font-weight: bold;
+}
+.homeRight {
+  position: relative;
+  float: right;
+  margin: 8vh 8vw 0 0;
+  border: 3px solid black;
+  width: 48vw;
+  height: 65vh;
+  border-radius: 5px;
+}
+.homeRight-slides {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 82%;
+}
+.home-slides {
+  width: 82%;
+}
+.slideText {
+  display: flex;
+  flex-direction: column;
+  background-color: MediumSeaGreen;
+  height: 18%;
+  text-decoration: none;
+}
+.slideText :hover {
+  opacity: 0.5;
+}
+.slideText > span {
+  text-decoration: none;
+  color: black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 23px;
+  font-weight: 600;
+  margin: auto 3vw;
+}
+.homeSearch {
+  background-color: rgb(85, 145, 222);
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 25px;
+  color: white;
+  letter-spacing: 0.5px;
+}
+.homeLeftArrow, .homeRightArrow {
+  display: block;
+  margin: auto;
+}
+
+/* search */
+.searchBlock {
+  display: grid;
+  gap: 20px;
+  grid-template-areas: "left left right";
+  width: max(48vw,400px);
+  background-color: gray;
+  padding: 2.5vh 4vw;
+  margin: 3vh auto;
+  font-weight: 500;
+  font-size: large;
+  letter-spacing: 1px;
+}
+.searchLeft {
+  grid-area: left;
+  display: grid;
+}
+.searchRight {
+  grid-area: right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.searchLabel {
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+.searchInput {
+  grid-column-start: 2;
+  grid-column-end: 4;
+  width: 90%;
+  height: 110%;
+}
+.searchButton {
+  height: 33%;
+  margin: 10px;
+  width: 80%;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+.searchResult {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: fit-content;
+  grid-gap: 2.2vw 2.5vw;
+  margin: 4vh auto;
+}
+.noResult {
+  text-align: center;
+  width: 100vw;
+  margin-top: 30px;
+  font-size: 25px;
+  color:rgb(201, 67, 91);
+  font-weight: 600;
+}
+
+/* wish list */
+.wishListTable {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: fit-content;
+  grid-gap: 4.3vh 4vw;
+  margin: 4.7vh auto 0vh auto;
+}
+
+/* resBlock */
+.entire_block {
+  width: 26vw;
+  height: 20vw;
+  position: relative;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+}
+.block_tag {
+  width: 'fit_content';
+  height: 'fit_content';
+  padding: 9px 13px;
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+  letter-spacing: 1px;
+  font-size: large;
+}
+.block_bottom {
+  height: 5vh;
+  letter-spacing: 0.3px;
+  width: max-content;
+  color: white;
+  padding: 1vh 1.2vw;
+  position: absolute;
+  bottom: 0;
+  display: block;
+  width: 100%;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: large;
+}
+
+/* resDetail */
+.resDetail_up {
+  display: grid;
+  padding: 6vh 4vw;
+  margin: auto;
+  width: fit-content;
+  height: fit-content;
+}
+.resDetail_left {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  width: 44vw;
+  height: 54.6vh;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-right: 3vw;
+}
+.resDetail_right {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  width: 44vw;
+  height: 54.6vh;
+  background-color: antiquewhite;
+  padding: 5.3vh 3vw 6.3vh 3vw;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.resDetail_heart {
+  float: right;
+}
+.resDetail_name {
+  font-size: 2vw;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+.resDetail_rating {
+  font-size: 2vw;
+  margin-top: 6vh;
+  letter-spacing: 0.7px;
+}
+.resDetail_rating > span {
+  font-size: 1.35vw;
+  letter-spacing: 0.7px;
+}
+.resDetail_nation {
+  font-size: 1.35vw;
+  line-height: 2;
+  margin-top: 3vh;
+  letter-spacing: 0.7px;
+}
+.resDetail_addRating {
+  margin-top: 7vh;
+  font-size: 1.35vw;
+  letter-spacing: 0.7px;
+}
+.resDetail_addRating > button {
+  font-size: 1.35vw;
+  padding: 0.5vh 0.8vw;
+  font-weight: 600;
+  border-radius: 5px;
+}
+.resDetail_menuTitle {
+  font-size: 2.2vw;
+  font-weight: 700;
+  letter-spacing: 0.1vw;
+  text-align: center;
+  color: rgb(0, 171, 77);
+}
+.resDetail_menu {
+  width: fit-content;
+  margin: 5vh auto 7vh auto;
+}
+.resDetail_menu > img {
+  width: 24vw;
+  height: 30vh;
+  margin: 0 2vw;
+  border-radius: 5px;
+}
+
+/* add restaurant */
+.addRes_form {
+  width: fit-content;
+  border: 3px solid black;
+  background-color: LightBlue;
+  margin: 6vh auto;
+  padding: 4vh 5vw 4.5vh 3vw;
+}
+.addRes_form>label {
+  width: 10vw;
+  line-height: 2.8;
+  font-size: 1.2vw;
+  font-weight: 500;
+  letter-spacing: 0.05vw;
+}
+.addRes_form>input, .addRes_form>select, .addRes_form>span {
+  left: 1.5vw;
+  position: relative;
+  font-size: 1.1vw;
+  letter-spacing: 0.03vw;
+  height: 3.8vh;
+}
+.addRes_form > button {
+  font-size: 1.2vw;
+  letter-spacing: 0.03vw;
+  padding: 0.5vh 0.7vw;
+  border-radius: 5px;
+  font-weight: 500;;
+}
+.addRes_result {
+  font-size: 1.5vw;
+  font-weight: 600;
+  color:rgb(201, 67, 91);
+  text-align: center;
+}
+
+/* edit restaurant */
+.editRes_left {
+  width: 42vw;
+  position: absolute;
+  top: 17vh;
+  left: 4vw;
+}
+.editRes_right {
+  position:absolute;
+  top: 17vh;
+  left: 50vw;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 1.2vw;
+  letter-spacing: 0.05vw;
+}
+.editRes_right > form {
+  background-color: antiquewhite;
+  padding: 5vh 4vw 3vh 3vw;
+  display: grid;
+}
+.editRes_form > label {
+  width: max-content;
+  margin-right: 3vw;
+  line-height: 2.7;
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+.editRes_form>input, .editRes_form>select, .editRes_form>span {
+  width: fit-content;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  height: 4vh;
+  margin-top: 1vh;
+}
+.editRes_form > button {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  width: fit-content;
+  padding: 0.5vh 0.8vw;
+  border-radius: 5px;
+}
+.editRes_updated {
+  height: 2vw;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  margin-top: 2vh;
+  color:rgb(201, 67, 91);
+  font-weight: 700;
+  margin-left: 0.35vw;
+}
+.editButton {
+  margin-top: 4vh;
+  padding: 0.5vh 0.8vw;
+  border-radius: 5px;
+}
