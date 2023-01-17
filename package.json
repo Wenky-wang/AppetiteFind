@@ -1,0 +1,24 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "CSIS3380-2022Fall-DouglasCollege-300334323-Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "backend": "nodemon ./app.js",
+    "frontend": "npm start --prefix client/appetite",
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\""
+  },
+  "author": "300334323-WenqiWang",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.0",
+    "body-parser": "^1.20.1",
+    "concurrently": "^7.6.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.3",
+    "nodemon": "^2.0.20"
+  },
+  "keywords": []
+}

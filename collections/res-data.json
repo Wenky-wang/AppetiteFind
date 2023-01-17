@@ -1,0 +1,211 @@
+[
+    {
+        "id": "0001",
+        "name": "Asian Fusion",
+        "time": ["lunch", "dinner"],
+        "nation": "taiwanese",
+        "totalRating": 638,
+        "ratingNumber": 150
+    },
+    {
+        "id": "0002",
+        "name": "Pizza Factory",
+        "time": ["lunch", "dinner", "midnight snack"],
+        "nation": "american",
+        "totalRating": 651,
+        "ratingNumber": 200
+    },
+    {
+        "id": "0003",
+        "name": "Maple Cafe",
+        "time": ["lunch", "afternoon tea", "dinner"],
+        "nation": "american",
+        "totalRating": 315,
+        "ratingNumber": 78
+    },
+    {
+        "id": "0004",
+        "name": "Lucy's Fish n Chip",
+        "time": ["lunch", "dinner", "midnight snack"],
+        "nation": "european",
+        "totalRating": 1012,
+        "ratingNumber": 249
+    },
+    {
+        "id": "0005",
+        "name": "Paul's Breakfast",
+        "time": ["breakfast", "brunch", "lunch", "afternoon tea"],
+        "nation": "european",
+        "totalRating": 1160,
+        "ratingNumber": 237
+    },
+    {
+        "id": "0006",
+        "name": "Sushi n BBO Bar",
+        "time": ["dinner", "midnight snack"],
+        "nation": "japanese",
+        "totalRating": 152,
+        "ratingNumber": 36
+    },
+    {
+        "id": "0007",
+        "name": "Favorite Pho",
+        "time": ["lunch", "dinner"],
+        "nation": "vietnamese",
+        "totalRating": 755,
+        "ratingNumber": 178
+    },
+    {
+        "id": "0008",
+        "name": "Banana Leaf",
+        "time": ["lunch", "dinner"],
+        "nation": "malaysian",
+        "rating": 4.2,
+        "totalRating": 1046,
+        "ratingNumber": 250
+    },
+    {
+        "id": "0009",
+        "name": "Hong Kong Cafe",
+        "time": ["breakfast", "brunch", "lunch", "afternoon tea", "dinner"],
+        "nation": "cantonese",
+        "totalRating": 105,
+        "ratingNumber": 28
+    },
+    {
+        "id": "0010",
+        "name": "Ram's Curry",
+        "time": ["lunch", "dinner"],
+        "nation": "indian",
+        "totalRating": 1156,
+        "ratingNumber": 280
+    },
+    {
+        "id": "0011",
+        "name": "Laura Patisserie",
+        "time": ["breakfast", "afternoon tea"],
+        "nation": "european",
+        "totalRating": 1400,
+        "ratingNumber": 333
+    },
+    {
+        "id": "0012",
+        "name": "Korean Noodle House",
+        "time": ["lunch", "dinner", "midnight snack"],
+        "nation": "korean",
+        "totalRating": 955,
+        "ratingNumber": 233
+    },
+    {
+        "id": "0013",
+        "name": "Dim Sum Expert",
+        "time": ["brunch", "lunch", "afternoon tea"],
+        "nation": "cantonese",
+        "totalRating": 723,
+        "ratingNumber": 180
+    },
+    {
+        "id": "0014",
+        "name": "Classic Cafe",
+        "time": ["brunch", "lunch", "afternoon tea"],
+        "nation": "european",
+        "totalRating": 389,
+        "ratingNumber": 97
+    },
+    {
+        "id": "0015",
+        "name": "Butter Chicken Express",
+        "time": ["lunch", "dinner"],
+        "nation": "indian",
+        "totalRating": 420,
+        "ratingNumber": 102
+    },
+    {
+        "id": "0016",
+        "name": "Neptune Seafood Restaurant",
+        "time": ["lunch", "dinner"],
+        "nation": "chinese",
+        "totalRating": 1000,
+        "ratingNumber": 352
+    },
+    {
+        "id": "0017",
+        "name": "Roasted Lamb Restaurant",
+        "time": ["lunch", "dinner", "midnight snack"],
+        "nation": "chinese",
+        "totalRating": 760,
+        "ratingNumber": 170
+    },
+    {
+        "id": "0018",
+        "name": "Neptune Dim Sum",
+        "time": ["brunch", "lunch"],
+        "nation": "cantonese",
+        "totalRating": 1120,
+        "ratingNumber": 267
+    },
+    {
+        "id": "0019",
+        "name": "Ha Cafe",
+        "time": ["lunch", "afternoon tea", "dinner"],
+        "nation": "vietnamese",
+        "totalRating": 200,
+        "ratingNumber": 48
+    },
+    {
+        "id": "0020",
+        "name": "IPOH Malaysian Cuisine",
+        "time": ["lunch", "dinner"],
+        "nation": "malaysian",
+        "totalRating": 394,
+        "ratingNumber": 101
+    },
+    {
+        "id": "0021",
+        "name": "Tenen Restaurant",
+        "time": ["brunch", "lunch", "dinner"],
+        "nation": "european",
+        "totalRating": 4228,
+        "ratingNumber": 919
+    },
+    {
+        "id": "0022",
+        "name": "Kokoro Ramen and Snack",
+        "time": ["lunch", "dinner", "midnight snack"],
+        "nation": "japanese",
+        "totalRating": 780,
+        "ratingNumber": 200
+    },
+    {
+        "id": "0023",
+        "name": "Taipei Beef Noodle",
+        "time": ["breakfast","lunch", "dinner"],
+        "nation": "taiwanese",
+        "totalRating": 1410,
+        "ratingNumber": 300
+    },
+    {
+        "id": "0024",
+        "name": "Galbi Korean BBQ",
+        "time": ["lunch", "dinner"],
+        "nation": "korean",
+        "totalRating": 709,
+        "ratingNumber": 165
+    },
+    {
+        "id": "0025",
+        "name": "Agra Tandoori Restaurant",
+        "time": ["lunch", "dinner"],
+        "nation": "indian",
+        "totalRating": 500,
+        "ratingNumber": 120
+    },
+    {
+        "id": "0026",
+        "name": "Grillzilla Bistro",
+        "time": ["brunch", "lunch", "dinner", "midnight snack"],
+        "nation": "american",
+        "totalRating": 779,
+        "ratingNumber": 199
+    }
+]

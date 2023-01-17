@@ -1,0 +1,200 @@
+[
+    {
+        "email": "300334323@student.douglascollege.ca",
+        "password": "123",
+        "type": "student",
+        "wished": ["0001", "0002", "0015", "0008"]
+    },
+    {
+        "email": "test@student.com",
+        "password": "123",
+        "type": "student",
+        "wished": ["0004", "0005", "0025", "0023", "0013", "0017"]
+    },
+    {
+        "email": "test@admin.com",
+        "password": "123",
+        "type": "admin",
+        "wished": null
+    },
+    {
+        "email": "test1@student.com",
+        "password": "123",
+        "type": "student",
+        "wished": ["0004", "0005", "0010", "0011", "0013", "0017"]
+    },
+    {
+        "email": "test1@admin.com",
+        "password": "123",
+        "type": "admin",
+        "wished": null
+    },
+    {
+        "email": "test2@student.com",
+        "password": "123",
+        "type": "student",
+        "wished": ["0004", "0005", "0010", "0011", "0013", "0017"]
+    },
+    {
+        "email": "test2@admin.com",
+        "password": "123",
+        "type": "admin",
+        "wished": null
+    },
+    {
+        "email": "test3@student.com",
+        "password": "123",
+        "type": "student",
+        "wished": ["0004", "0005", "0010", "0011", "0013", "0017"]
+    },
+    {
+        "email": "test3@admin.com",
+        "password": "123",
+        "type": "admin",
+        "wished": null
+    },
+    {
+        "email": "test4@student.com",
+        "password": "123",
+        "type": "student",
+        "wished": ["0004", "0005", "0010", "0011", "0013", "0017"]
+    },
+    {
+        "email": "test4@admin.com",
+        "password": "123",
+        "type": "admin",
+        "wished": null
+    },
+    {
+        "email": "test5@student.com",
+        "password": "123",
+        "type": "student",
+        "wished": ["0004", "0005", "0010", "0011", "0013", "0017"]
+    },
+    {
+        "email": "test5@admin.com",
+        "password": "123",
+        "type": "admin",
+        "wished": null
+    },
+    {
+        "email": "test6@student.com",
+        "password": "123",
+        "type": "student",
+        "wished": ["0004", "0005", "0010", "0011", "0013", "0017"]
+    },
+    {
+        "email": "test6@admin.com",
+        "password": "123",
+        "type": "admin",
+        "wished": null
+    },
+    {
+        "email": "test7@student.com",
+        "password": "123",
+        "type": "student",
+        "wished": ["0004", "0005", "0010", "0011", "0013", "0017"]
+    },
+    {
+        "email": "test7@admin.com",
+        "password": "123",
+        "type": "admin",
+        "wished": null
+    },
+    {
+        "email": "test8@student.com",
+        "password": "123",
+        "type": "student",
+        "wished": ["0004", "0005", "0010", "0011", "0013", "0017"]
+    },
+    {
+        "email": "test8@admin.com",
+        "password": "123",
+        "type": "admin",
+        "wished": null
+    },
+    {
+        "email": "test9@student.com",
+        "password": "123",
+        "type": "student",
+        "wished": ["0004", "0005", "0010", "0011", "0013", "0017"]
+    },
+    {
+        "email": "test9@admin.com",
+        "password": "123",
+        "type": "admin",
+        "wished": null
+    },
+    {
+        "email": "test10@student.com",
+        "password": "123",
+        "type": "student",
+        "wished": ["0004", "0005", "0010", "0011", "0013", "0017"]
+    },
+    {
+        "email": "test10@admin.com",
+        "password": "123",
+        "type": "admin",
+        "wished": null
+    },
+    {
+        "email": "test11@student.com",
+        "password": "123",
+        "type": "student",
+        "wished": ["0004", "0005", "0010", "0011", "0013", "0017"]
+    },
+    {
+        "email": "test11@admin.com",
+        "password": "123",
+        "type": "admin",
+        "wished": null
+    },
+    {
+        "email": "test12@student.com",
+        "password": "123",
+        "type": "student",
+        "wished": ["0004", "0005", "0010", "0011", "0013", "0017"]
+    },
+    {
+        "email": "test12@admin.com",
+        "password": "123",
+        "type": "admin",
+        "wished": null
+    },
+    {
+        "email": "test13@student.com",
+        "password": "123",
+        "type": "student",
+        "wished": ["0004", "0005", "0010", "0011", "0013", "0017"]
+    },
+    {
+        "email": "test13@admin.com",
+        "password": "123",
+        "type": "admin",
+        "wished": null
+    },
+    {
+        "email": "test14@student.com",
+        "password": "123",
+        "type": "student",
+        "wished": ["0004", "0005", "0010", "0011", "0013", "0017"]
+    },
+    {
+        "email": "test14@admin.com",
+        "password": "123",
+        "type": "admin",
+        "wished": null
+    },
+    {
+        "email": "test15@student.com",
+        "password": "123",
+        "type": "student",
+        "wished": ["0004", "0005", "0010", "0011", "0013", "0017"]
+    },
+    {
+        "email": "test15@admin.com",
+        "password": "123",
+        "type": "admin",
+        "wished": null
+    }
+]
