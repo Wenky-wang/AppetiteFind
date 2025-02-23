@@ -11,7 +11,7 @@ const Login = ({onLoginFunc=f=>f}) => {
     
     return ( <>
         <header className="login_head">
-            <h1>Appetite Seek</h1>
+            <h1>Seek Appetite!</h1>
         </header>
         <main className="login_main">
             <form className="login_form" onSubmit={onLogin}>
